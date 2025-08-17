@@ -9,7 +9,7 @@ I'm a technician specializing in EMV cards and payment systems, and also a compu
   + [ApplePay](https://www.apple.com/vn/newsroom/2023/08/apple-pay-launches-in-vietnam/) [GarminPay](https://www.garmin.com/vi-VN/newsroom/press-release/news-2024-apr-garmin-pay/#:~:text=Hôm%20nay%2C%20Garmin%20Việt%20Nam,hồ%20thông%20minh%20của%20hãng.) [GoogleWallet](https://www.sacombank.com.vn/trang-chu/tin-tuc/tin-sacombank/news-2022/sacombank-ket-noi-giai-phap-thanh-toan-di-dong-google-wallet.html) [SamsungPay](https://www.sacombank.com.vn/ca-nhan/the/dich-vu-the/samsung-pay.html)
   + [AI-ContactCenter](https://cafef.vn/sacombank-bat-tay-cung-fpt-smart-cloud-basebs-xay-dung-tong-dai-ai-the-he-moi-188240218211610767.chn) 🤖 Keyless Contact Center (1st market launching In Vietnam)
 
-📫 I'm best reached via [Email](mailto:tuyenlq@hotmail.com.vn). I'm always open to interesting conversations and collaboration.
+- 📫 I'm best reached via [Email](mailto:tuyenlq@hotmail.com.vn). I'm always open to interesting conversations and collaboration.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyen-le-vietnam/)     [![Follow on X](https://img.shields.io/badge/X-Follow-black?logo=twitter&logoColor=white)](https://x.com/quang_tuyen)
 
